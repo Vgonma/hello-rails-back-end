@@ -6,7 +6,6 @@
 - [📖 About the Project](#about-project)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [Live Demo](#demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -45,11 +44,6 @@ To check the React view repo click [here](https://github.com/Vgonma/hello-react-
 - App runs using the model-view-controller architecture
 - App runs React for it's front end views.
 - App uses Redux to fetch data from the Rails api.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Live Demo <a name="demo"></a>
-- Check out the [live demo]() Comming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
